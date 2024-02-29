@@ -1,0 +1,19 @@
+<nota_fiscal>
+    <cliente>João da Silva</cliente>
+    <endereco>Rua das Flores, 123</endereco>
+    <cidade>São Paulo</cidade>
+    <estado>São Paulo</estado>
+    <produtos>
+        <produto>
+            <nome>Camiseta</nome>
+            <quantidade>2</quantidade>
+            <preco_unitario>25.00</preco_unitario>
+        </produto>
+        <produto>
+            <nome>Calça Jeans</nome>
+            <quantidade>1</quantidade>
+            <preco_unitario>50.00</preco_unitario>
+        </produto>
+    </produtos>
+    <valor_total>100.00</valor_total>
+</nota_fiscal>
